@@ -56,3 +56,15 @@ a {
 
 #main {
   padding: 50px; }
+
+img {
+  width: 100px;
+}
+
+img#hoff {
+  border:  4px solid hotpink;
+}
+
+img.car {
+  border:  4px dashed black;
+}
